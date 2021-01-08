@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\controllers",
+    "\\models",
+    "\\views",
+    "\\views\\honorarios",
+    "\\views\\medicos",
+    "\\views\\procedimientos",
+    "\\web"
+  ],
+  "SelectedNode": "\\controllers\\HonorariosController.php",
+  "PreviewInSolutionExplorer": false
+}
